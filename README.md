@@ -1,16 +1,25 @@
 ### Hi there 👋
 
-<!--
-**one33one/one33one** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I really have no idea how to code but wish I did.
 
-Here are some ideas to get you started:
-
+## Things GitHub put here for me to answer.
 - 🔭 I’m currently working on ...
+> Some silly Projects
+
+ 
 - 🌱 I’m currently learning ...
+  
+  `javascript`
+  
 - 👯 I’m looking to collaborate on ...
+> Nothing currently.
 - 🤔 I’m looking for help with ...
+> Finding more time in the day.
 - 💬 Ask me about ...
+- 
 - 📫 How to reach me: ...
+  
 - 😄 Pronouns: ...
+- 
 - ⚡ Fun fact: ...
--->
+
